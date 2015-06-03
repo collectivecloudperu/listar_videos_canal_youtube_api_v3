@@ -1,6 +1,6 @@
 
-var channels_name='AMGViajesSA',
-channels_title='AMG Viajes S.A.C.',
+var channels_name='GoogleDevelopers', //Ssolo la parte del nombre de mi canal, Ejemplo: --> https://www.youtube.com/user/GoogleDevelopers
+channels_title='Un titulo que quiera mostrar',
 apikey='API KEY';
 
 $.ajax({
